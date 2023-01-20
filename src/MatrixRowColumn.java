@@ -1,8 +1,6 @@
-import javax.security.sasl.SaslClient;
-import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
+public class MatrixRowColumn {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Column or row? (1 or 2)");
